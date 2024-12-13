@@ -54,3 +54,5 @@ jobs:
         UPLOAD_TO_ACTIONS: 'true'
         ANDROID_ARTIFACT_NAME: ${{ inputs.buildName }}
         ANDROID_ARTIFACT_PATH: "android/app/build/outputs/apk/residentapp/release/Inji_universal.apk"
+
+        #test
